@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on linkdin 
 - 📫 How to reach me through my email and social media profilr like linkedin etc...
 - 😄 Pronouns:HARSH
-- ⚡ Fun fact:
+
 
 <!---
 harshkava01/harshkava01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
